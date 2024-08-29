@@ -9,6 +9,8 @@
 
 ## Arduino Code Logic
 
+[Arduino code](./ESP8266.ino)
+
 ```mermaid
 flowchart TD
     A("Initialize Serial Communication") --> B("Initialize Wi-Fi")
