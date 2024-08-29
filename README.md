@@ -1,5 +1,12 @@
 # ESP8266 distance measurement
 
+![a photo of the ESP8266 with the sensor soldered on, without the case](./ESP8266-with-AJ-SR04M-soldered.jpg)
+
+## Case
+![a screenshot of the 3D case](./case.png)
+
+[STL File](./Case.stl) [SCAD file](./Case.scad)
+
 ## Arduino Code Logic
 
 ```mermaid
