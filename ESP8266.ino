@@ -69,6 +69,8 @@ void loop() {
   }
 }
 
+// I got this snippet from https://tutorials.probots.co.in/communicating-with-a-waterproof-ultrasonic-sensor-aj-sr04m-jsn-sr04t/
+
 void getDistance() {
   unsigned int distance;
   byte startByte, h_data, l_data, sum = 0;
